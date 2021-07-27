@@ -1,7 +1,6 @@
-### Hello there 👋 
 <details>
-  <summary></summary>
-  General Kenobi!
+  <summary><b>Hello there 👋</b></summary>
+  <i>General Kenobi!</i>
 </details>
 
 <!--
