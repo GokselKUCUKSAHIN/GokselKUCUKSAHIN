@@ -1,6 +1,7 @@
 <details>
-  <summary><h2>Hello there 👋</h2></summary>
-  <img src="res/obi1.gif" width="450px" alt="obiwan kenobi"/>
+  <summary><b>Hello there 👋</b></summary>
+  <img src="res/obi1.gif" width="500px" alt="obiwan kenobi"/>
+  <i>General Kenobi!</i>
 </details>
 
 <!--
