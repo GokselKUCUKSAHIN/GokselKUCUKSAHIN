@@ -11,7 +11,7 @@
 <table>
   <tr style="border: none">
     <td style="border: none"><a href="https://www.javascript.com"><img src="res/logo/js.png" width="90px" alt="JavaScript Logo"/><a/></td>
-    <td style="border: none"><a href="https://www.javascript.com"><img src="res/logo/ts.png" width="90px" alt="TypeScript Logo"/><a/></td>
+    <td style="border: none"><a href="https://www.typescriptlang.org"><img src="res/logo/ts.png" width="90px" alt="TypeScript Logo"/><a/></td>
     <td style="border: none"><a href="https://webassembly.org"><img src="res/logo/wa.png" width="90px" alt="WebAssembly Logo"/><a/></td>
   </tr>
   <tr style="border: none">
