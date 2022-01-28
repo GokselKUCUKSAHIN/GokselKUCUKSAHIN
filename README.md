@@ -20,14 +20,14 @@
     <td style="border: none"><a href="https://maven.apache.org"><img src="res/logo/maven.png" width="90px" alt="Apache Maven Logo"/><a/></td>
   </tr>
   <tr style="border: none">
+    <td style="border: none"><a href="https://nodejs.org/en/"><img src="res/logo/node.png" width="90px" alt="Node.js Logo"/><a/></td>
     <td style="border: none"><a href="https://www.npmjs.com"><img src="res/logo/npm.png" width="90px" alt="npm Logo"/><a/></td>
     <td style="border: none"><a href="http://expressjs.com"><img src="res/logo/express.png" width="90px" alt="express.js Logo"/><a/></td>
-    <td style="border: none"><a href="https://d3js.org"><img src="res/logo/d3.png" width="90px" alt="d3.js Logo"/><a/></td>
   </tr>
   <tr style="border: none">
-    <td style="border: none"><a href="https://nodejs.org/en/"><img src="res/logo/node.png" width="90px" alt="Node.js Logo"/><a/></td>
     <td style="border: none"><a href="https://p5js.org"><img src="res/logo/p5.png" width="90px" alt="p5.js Logo"/><a/></td>
     <td style="border: none"><a href="https://spring.io"><img src="res/logo/boot.png" width="90px" alt="Spring Boot Logo"/><a/></td>
+    <td style="border: none"><a href="https://d3js.org"><img src="res/logo/d3.png" width="90px" alt="d3.js Logo"/><a/></td>
   </tr>
   <tr style="border: none">
     <td style="border: none"><a href="https://www.mongodb.com"><img src="res/logo/mongo.png" width="90px" alt="MongoDb Logo"/><a/></td>
