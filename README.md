@@ -15,9 +15,9 @@
     <td style="border: none"><a href="https://www.assemblyscript.org/"><img src="res/logo/as.png" width="90px" alt="AssemblyScript Logo"/><a/></td>
   </tr>
     <tr style="border: none">
-    <td style="border: none"><a href="https://v8.dev/"><img src="res/logo/v8.png" width="90px" alt="Chrome V8 Logo"/><a/></td>
     <td style="border: none"><a href="https://vuejs.org/"><img src="res/logo/vue.png" width="90px" alt="Vue.js Logo"/><a/></td>
     <td style="border: none"><a href="https://vitejs.dev/"><img src="res/logo/vite.png" width="90px" alt="Vite Logo"/><a/></td>
+    <td style="border: none"><a href="https://v8.dev/"><img src="res/logo/v8.png" width="90px" alt="Chrome V8 Logo"/><a/></td>
     <td style="border: none"><a href="https://maven.apache.org"><img src="res/logo/maven.png" width="90px" alt="Apache Maven Logo"/><a/></td>
   </tr>
   <tr style="border: none">
