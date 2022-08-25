@@ -40,9 +40,14 @@
   </tr>
 </table>
 </div>
-<div style="block-size: border-box; height: 50px"></div>
 
-<p align="center"> 
-  Visitor count<br>
-   <img src="https://profile-counter.glitch.me/GokselKUCUKSAHIN/count.svg" />
-</p>
+<div style="block-size: border-box; height: 15px"></div>
+
+<div style="block-size: border-box; width: 400px">
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/GokselKUCUKSAHIN/count.svg" /> 
+  </p>
+</div>
+
+<div style="block-size: border-box; height: 25px"></div>
