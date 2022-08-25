@@ -41,3 +41,8 @@
 </table>
 </div>
 <div style="block-size: border-box; height: 50px"></div>
+
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/GokselKUCUKSAHIN/count.svg" />
+</p>
