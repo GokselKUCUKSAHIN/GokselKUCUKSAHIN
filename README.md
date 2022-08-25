@@ -43,11 +43,21 @@
 
 <div style="block-size: border-box; height: 15px"></div>
 
-<div style="block-size: border-box; width: 400px">
-  <p align="center"> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/GokselKUCUKSAHIN/count.svg" /> 
-  </p>
-</div>
+<dl>
+  <dd>
+    <dl>
+      <dd>
+         <dl>
+          <p align="left"> 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Visitor count<br>
+            <img src="https://profile-counter.glitch.me/GokselKUCUKSAHIN/count.svg" /> 
+           </p>
+          </dl>
+      </dd>
+    </dl>
+  </dd>
+</dl>
 
 <div style="block-size: border-box; height: 25px"></div>
