@@ -58,7 +58,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             Visitor count<br>
-            <img src="https://profile-counter.glitch.me/GokselKUCUKSAHIN/count.svg" /> 
+            <img src="https://profile-counter.deno.dev/gokselkucuksahin/count.svg" /> 
            </p>
           </dl>
       </dd>
